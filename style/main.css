@@ -35,6 +35,10 @@ header div {
     margin-left: 20%;
 }
 
+.fa-search {
+    cursor: pointer;
+}
+
 .search_menu {
     margin-left: min(50px, 10%);
     margin-right: max(50px, 5%);
